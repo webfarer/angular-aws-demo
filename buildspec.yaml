@@ -24,4 +24,4 @@ artifacts:
   files:
     - "angular-demo-backet"
   discard-paths: no
-  base-directory: dist/angular-demo
+  base-directory: dist/defproject
